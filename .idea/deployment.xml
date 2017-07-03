@@ -1,15 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/HK-RazieL/Java-Basics" uploadOnCheckin="99ac4891-72b7-4413-b6f2-3251921f4b54">
-    <serverData>
-      <paths name="https://github.com/HK-RazieL/Java-Basics">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-    </serverData>
-    <option name="myUploadOnCheckinName" value="https://github.com/HK-RazieL/Java-Basics" />
-  </component>
+  <component name="PublishConfigData" serverName="https://github.com/HK-RazieL/Java-Basics" />
 </project>
